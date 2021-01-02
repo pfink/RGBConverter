@@ -12,12 +12,6 @@
 #ifndef RGBConverter_h
 #define RGBConverter_h
 
-#if (ARDUINO >= 100)
- #include <Arduino.h>
-#else
- #include <Arduino.h>
-#endif
-
 class RGBConverter {
 
 public:
